@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#080a0e" />
+  <rect width="64" height="64" rx="14" stroke="#00f2fe" stroke-width="1.5" stroke-opacity="0.3" />
+  <!-- Outer Framing Brackets -->
+  <path d="M20 10L6 32L20 54" stroke="#00f2fe" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 10L58 32L44 54" stroke="#00f2fe" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner Perspective Columns -->
+  <path d="M26 18L18 32L26 46" stroke="#00f2fe" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.65"/>
+  <path d="M38 18L46 32L38 46" stroke="#00f2fe" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.65"/>
+  <!-- Central Monolith -->
+  <line x1="32" y1="24" x2="32" y2="40" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>

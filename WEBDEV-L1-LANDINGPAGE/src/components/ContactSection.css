@@ -1,0 +1,259 @@
+/* =========================================================
+   CONTACT SECTION (Responsive Desktop & Mobile - Amethyst)
+   ========================================================= */
+
+.contact-section {
+  width: 100%;
+  padding: clamp(3rem, 8vw, 6rem) clamp(0.5rem, 3vw, 2rem);
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* Base Mobile Container */
+.contact-container {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+}
+
+/* =========================================================
+   Desktop Layout (min-width: 900px)
+   ========================================================= */
+@media (min-width: 900px) {
+  .contact-container {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    align-items: center;
+    gap: 4.5rem;
+  }
+}
+
+/* =========================================================
+   Left Column: Information & Direct Links
+   ========================================================= */
+.contact-info-col {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main Heading */
+.contact-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(1.75rem, 5vw, 3.8rem);
+  font-weight: 700;
+  line-height: 1.1;
+  color: #ffffff;
+  letter-spacing: 0.03em;
+  margin: 0 0 1.5rem 0;
+  text-transform: uppercase;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.contact-heading-accent {
+  background: linear-gradient(135deg, #c084fc 0%, #ec4899 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  text-shadow: 0 0 30px rgba(168, 85, 247, 0.5);
+}
+
+/* Subtitle */
+.contact-subheading {
+  font-family: sans-serif;
+  font-size: clamp(1rem, 1.3vw, 1.15rem);
+  line-height: 1.6;
+  color: #9ca3af;
+  margin: 0 0 2.5rem 0;
+  font-style: italic;
+  max-width: 560px;
+}
+
+/* Contact Methods List (Email & Instagram) */
+.contact-methods {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+}
+
+.contact-method-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.25rem;
+  text-decoration: none;
+  cursor: pointer;
+  width: fit-content;
+  transition: transform 0.25s ease;
+}
+
+.contact-method-item:hover {
+  transform: translateX(6px);
+}
+
+/* Circular Icon Badge */
+.contact-method-icon {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background-color: #0e0a1c;
+  border: 1px solid rgba(168, 85, 247, 0.35);
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all 0.3s ease;
+}
+
+.contact-method-item:hover .contact-method-icon {
+  border-color: #a855f7;
+  background-color: rgba(168, 85, 247, 0.2);
+  box-shadow: 0 0 25px rgba(168, 85, 247, 0.45);
+}
+
+.method-icon-svg {
+  color: #c084fc;
+  transition: transform 0.3s ease;
+}
+
+.contact-method-item:hover .method-icon-svg {
+  transform: scale(1.1);
+}
+
+/* Text Beside Icons */
+.contact-method-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.contact-method-label {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
+
+.contact-method-value {
+  font-family: sans-serif;
+  font-size: 0.95rem;
+  color: #9ca3af;
+  transition: color 0.2s ease;
+}
+
+.contact-method-item:hover .contact-method-value {
+  color: #c084fc;
+}
+
+/* =========================================================
+   Right Column: Consultation Card
+   ========================================================= */
+.contact-card-col {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 900px) {
+  .contact-card-col {
+    justify-content: flex-end;
+  }
+}
+
+.contact-card {
+  width: 100%;
+  max-width: 460px;
+  background: linear-gradient(145deg, #130e26, #0a0714);
+  border: 1px solid rgba(168, 85, 247, 0.4);
+  border-radius: 22px;
+  padding: 2.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  box-shadow: 0 0 35px rgba(168, 85, 247, 0.18), 0 20px 40px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  transition: all 0.35s ease;
+}
+
+.contact-card:hover {
+  border-color: #c084fc;
+  box-shadow: 0 0 50px rgba(168, 85, 247, 0.35);
+  transform: translateY(-4px);
+}
+
+/* Card Header: Avatar & Info */
+.contact-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.contact-card-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 15%;
+  flex-shrink: 0;
+  border: 2px solid #a855f7;
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.45);
+}
+
+.contact-card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.contact-card-title {
+  margin: 0;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.contact-card-subtitle {
+  margin: 0;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  color: #c084fc;
+}
+
+/* Discovery Call Button */
+.contact-card-btn {
+  background-color: #a855f7;
+  color: #08060e;
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.08em;
+  padding: 1.05rem 1.6rem;
+  border-radius: 9999px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  border: 2px solid rgba(192, 132, 252, 0.6);
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.contact-card-btn:hover {
+  background-color: #ffffff;
+  color: #08060e;
+  border-color: #ffffff;
+  transform: scale(1.03);
+  box-shadow: 0 0 35px rgba(168, 85, 247, 0.7);
+}
+
+.contact-card-btn:active {
+  transform: scale(0.98);
+}

@@ -1,0 +1,56 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: Temp Scale
+      - generic [ref=e12]: Real-Time
+    - generic [ref=e13]: INSTANT CONVERSION
+    - generic [ref=e14]: Move effortlessly between Celsius, Fahrenheit, and Kelvin with our intuitive temperature converter.
+    - generic [ref=e15]:
+      - generic [ref=e16]: Quick Presets
+      - generic [ref=e20]:
+        - button "Freezing (0°C)" [ref=e21] [cursor=pointer]
+        - button "Room Temp (22°C)" [ref=e22] [cursor=pointer]
+        - button "Body Temp (37°C)" [ref=e23] [cursor=pointer]
+        - button "Boiling (100°C)" [active] [ref=e24] [cursor=pointer]
+  - generic [ref=e25]:
+    - paragraph [ref=e26]: ENTER YOUR VALUE
+    - generic [ref=e27]:
+      - generic [ref=e28]: Temperature
+      - button "Clear" [ref=e94] [cursor=pointer]
+    - generic [ref=e33]:
+      - spinbutton "Temperature" [ref=e34]: "100"
+      - generic [ref=e35]: °C
+    - paragraph [ref=e36]: Convert from
+    - generic [ref=e37]:
+      - button "°C Celsius" [ref=e38] [cursor=pointer]:
+        - generic [ref=e39]: °C
+        - generic [ref=e40]: Celsius
+      - button "°F Fahrenheit" [ref=e41] [cursor=pointer]:
+        - generic [ref=e42]: °F
+        - generic [ref=e43]: Fahrenheit
+      - button "°K Kelvin" [ref=e44] [cursor=pointer]:
+        - generic [ref=e45]: °K
+        - generic [ref=e46]: Kelvin
+    - generic [ref=e47]:
+      - generic [ref=e48]: Converted Results
+      - generic [ref=e53]:
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: Fahrenheit
+            - button "Copy" [ref=e101] [cursor=pointer]
+          - generic [ref=e106]:
+            - generic [ref=e107]: "212"
+            - generic [ref=e108]: °F
+          - generic [ref=e109]:
+            - text: "Formula:"
+            - code [ref=e110]: (100°C × 9/5) + 32
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - generic [ref=e113]: Kelvin
+            - button "Copy" [ref=e114] [cursor=pointer]
+          - generic [ref=e119]:
+            - generic [ref=e120]: "373.15"
+            - generic [ref=e121]: °K
+          - generic [ref=e122]:
+            - text: "Formula:"
+            - code [ref=e123]: 100°C + 273.15

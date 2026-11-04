@@ -1,0 +1,137 @@
+- generic [ref=f10e2]:
+  - banner:
+    - generic [ref=f10e4]:
+      - link "CodeHall Home" [ref=f10e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f10e6]: CodeHall
+      - navigation "Desktop Navigation" [ref=f10e13]:
+        - link "Our Work" [ref=f10e14] [cursor=pointer]:
+          - /url: "#work"
+        - link "Process" [ref=f10e15] [cursor=pointer]:
+          - /url: "#process"
+        - link "Impact" [ref=f10e16] [cursor=pointer]:
+          - /url: "#impact"
+        - link "Contact" [ref=f10e17] [cursor=pointer]:
+          - /url: "#contact"
+      - button "Let's Talk" [ref=f10e19] [cursor=pointer]
+  - main [ref=f10e20]:
+    - generic [ref=f10e21]:
+      - paragraph [ref=f10e24]: CODING AGENCY
+      - generic [ref=f10e25]: WE BUILD YOUR IMAGINATIONS.
+      - generic [ref=f10e26]: We partner with bold brands to shape their digital identity, fusing deep technical execution with striking design to build unforgettable web experiences.
+      - generic [ref=f10e27]:
+        - button "VIEW OUR WORK" [ref=f10e28] [cursor=pointer]
+        - button "LET'S TALK" [ref=f10e29] [cursor=pointer]
+    - generic [ref=f10e30]:
+      - generic [ref=f10e31]:
+        - heading "Intentional Design" [level=2] [ref=f10e35]
+        - paragraph [ref=f10e36]: Data-backed layouts built to maximize engagement and user retention
+      - generic [ref=f10e37]:
+        - heading "Robust Infrastructure" [level=2] [ref=f10e42]
+        - paragraph [ref=f10e43]: High-performance, modular architectures engineered for long-term scalability
+    - generic [ref=f10e44]:
+      - generic [ref=f10e45]:
+        - generic [ref=f10e46]:
+          - heading "Selected Work" [level=1] [ref=f10e47]
+          - paragraph [ref=f10e48]: A Curation of our most recent technical challenges and design triumphs
+        - button "View Projects" [ref=f10e50] [cursor=pointer]
+      - generic [ref=f10e54]:
+        - generic [ref=f10e55]:
+          - link [ref=f10e56] [cursor=pointer]:
+            - /url: https://buy-oh-code-house1.vercel.app/
+            - img "INFIBUY PROJECT" [ref=f10e57]
+          - generic [ref=f10e58]:
+            - heading "INFIBUY" [level=3] [ref=f10e59]
+            - generic [ref=f10e60]: E-COMMERCE PLATFORM
+        - generic [ref=f10e61]:
+          - img "PORTFOLIO PROJECT" [ref=f10e62]
+          - generic [ref=f10e63]:
+            - heading "PORTFOLIO" [level=3] [ref=f10e64]
+            - generic [ref=f10e65]: DIGITAL SHOWCASE
+        - generic [ref=f10e66]:
+          - img "STONE APP PROJECT" [ref=f10e67]
+          - generic [ref=f10e68]:
+            - heading "STONE APP" [level=3] [ref=f10e69]
+            - generic [ref=f10e70]: WEB APPLICATION
+    - generic [ref=f10e72]:
+      - heading "Our Process & Features" [level=1] [ref=f10e73]
+      - generic [ref=f10e74]:
+        - img "Seamless Across All Screens" [ref=f10e76]
+        - generic [ref=f10e77]:
+          - generic [ref=f10e82] [cursor=pointer]:
+            - generic [ref=f10e83]: Seamless Across All Screens
+            - generic [ref=f10e84]: Crafted with fluid layouts that adapt instantly to mobile, tablet, and desktop displays.
+          - generic [ref=f10e85] [cursor=pointer]:
+            - generic [ref=f10e86]: "2"
+            - generic [ref=f10e87]: Engineered for Growth
+          - generic [ref=f10e89] [cursor=pointer]:
+            - generic [ref=f10e90]: "3"
+            - generic [ref=f10e91]: Lightning-Fast Speed
+    - generic [ref=f10e93]:
+      - generic [ref=f10e94]: ENGINEERED FOR IMPACT
+      - heading "Chosen by businesses, adored by their customers." [level=2] [ref=f10e97]
+      - paragraph [ref=f10e98]: We help ambitious companies build powerful, custom web platforms designed for real-world speed, conversion, and long-term scalability.
+      - generic [ref=f10e99]:
+        - generic [ref=f10e101]:
+          - generic [ref=f10e102]:
+            - generic [ref=f10e103]: PERFORMANCE
+            - generic [ref=f10e108]: <0.8s
+            - generic [ref=f10e109]: Average Load Speed
+            - paragraph [ref=f10e110]: Sub-second response rates optimized for top Core Web Vitals, immediate retention, and SEO rank.
+          - generic [ref=f10e111] [cursor=pointer]:
+            - generic [ref=f10e112]: QUALITY
+            - generic [ref=f10e119]: 100%
+            - generic [ref=f10e120]: Bespoke Architecture
+            - paragraph [ref=f10e121]: Zero generic page-builder bloat. Handcrafted modular code engineered for maintainability and speed.
+          - generic [ref=f10e122] [cursor=pointer]:
+            - generic [ref=f10e123]: RELIABILITY
+            - generic [ref=f10e129]: 99.9%
+            - generic [ref=f10e130]: Cloud Availability
+            - paragraph [ref=f10e131]: Resilient deployment pipelines built to handle unexpected traffic spikes without downtime.
+          - generic [ref=f10e132] [cursor=pointer]:
+            - generic [ref=f10e133]: TRANSPARENCY
+            - generic [ref=f10e140]: 1-on-1
+            - generic [ref=f10e141]: Direct Engineering Access
+            - paragraph [ref=f10e142]: Direct technical collaboration with our lead developer without project manager overhead.
+        - generic [ref=f10e143]:
+          - button "Previous card" [ref=f10e144] [cursor=pointer]
+          - generic [ref=f10e147]:
+            - button "Go to slide 1" [ref=f10e148] [cursor=pointer]
+            - button "Go to slide 2" [ref=f10e149] [cursor=pointer]
+            - button "Go to slide 3" [ref=f10e150] [cursor=pointer]
+            - button "Go to slide 4" [ref=f10e151] [cursor=pointer]
+          - button "Next card" [ref=f10e152] [cursor=pointer]
+    - generic [ref=f10e156]:
+      - generic [ref=f10e157]:
+        - heading "Let's build something extraordinary." [level=2] [ref=f10e158]:
+          - text: Let's build something
+          - generic [ref=f10e159]: extraordinary.
+        - paragraph [ref=f10e160]: Ready to elevate your digital presence? Fill out the form or book a direct consultation call with our engineering lead.
+        - generic [ref=f10e161]:
+          - link "Email Us hello@zubbysportolio.dev" [ref=f10e162] [cursor=pointer]:
+            - /url: mailto:hello@zubbysportolio.dev
+            - generic [ref=f10e167]:
+              - generic [ref=f10e168]: Email Us
+              - generic [ref=f10e169]: hello@zubbysportolio.dev
+          - link "Instagram codehall.dev" [ref=f10e170] [cursor=pointer]:
+            - /url: https://instagram.com/codehall.dev
+            - generic [ref=f10e175]:
+              - generic [ref=f10e176]: Instagram
+              - generic [ref=f10e177]: codehall.dev
+      - generic [ref=f10e179]:
+        - generic [ref=f10e180]:
+          - img "Zubby - Founder & Lead Developer" [ref=f10e181]
+          - generic [ref=f10e182]:
+            - heading "Let's Discuss Your Project" [level=4] [ref=f10e183]
+            - paragraph [ref=f10e184]: With Zubby, Founder & Lead Developer
+        - link "Book a Discovery Call" [ref=f10e185] [cursor=pointer]:
+          - /url: mailto:hello@zubbysportolio.dev?subject=Booking%20a%20Discovery%20Call
+    - generic [ref=f10e187]:
+      - paragraph [ref=f10e188]: © 2026 CodeHall Technologies. All rights reserved.
+      - generic [ref=f10e189]:
+        - link "GitHub" [ref=f10e190] [cursor=pointer]:
+          - /url: https://github.com
+        - link "Instagram" [ref=f10e191] [cursor=pointer]:
+          - /url: https://instagram.com/codehall.dev
+        - link "Contact" [ref=f10e192] [cursor=pointer]:
+          - /url: mailto:hello@zubbysportolio.dev

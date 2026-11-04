@@ -1,0 +1,34 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: Temp Scale
+      - generic [ref=e12]: Real-Time
+    - generic [ref=e13]: INSTANT CONVERSION
+    - generic [ref=e14]: Move effortlessly between Celsius, Fahrenheit, and Kelvin with our intuitive temperature converter.
+    - generic [ref=e15]:
+      - generic [ref=e16]: Quick Presets
+      - generic [ref=e20]:
+        - button "Freezing (0°C)" [ref=e21] [cursor=pointer]
+        - button "Room Temp (22°C)" [ref=e22] [cursor=pointer]
+        - button "Body Temp (37°C)" [ref=e23] [cursor=pointer]
+        - button "Boiling (100°C)" [ref=e24] [cursor=pointer]
+  - generic [ref=e25]:
+    - paragraph [ref=e26]: ENTER YOUR VALUE
+    - generic [ref=e27]: Temperature
+    - generic [ref=e33]:
+      - spinbutton "Temperature" [ref=e34]
+      - generic [ref=e35]: °F
+    - paragraph [ref=e36]: Convert from
+    - generic [ref=e37]:
+      - button "°C Celsius" [ref=e38] [cursor=pointer]:
+        - generic [ref=e39]: °C
+        - generic [ref=e40]: Celsius
+      - button "°F Fahrenheit" [ref=e41] [cursor=pointer]:
+        - generic [ref=e42]: °F
+        - generic [ref=e43]: Fahrenheit
+      - button "°K Kelvin" [ref=e44] [cursor=pointer]:
+        - generic [ref=e45]: °K
+        - generic [ref=e46]: Kelvin
+    - generic [ref=e47]:
+      - generic [ref=e48]: Converted Results
+      - paragraph [ref=e93]: Enter a temperature above to see instant conversions.

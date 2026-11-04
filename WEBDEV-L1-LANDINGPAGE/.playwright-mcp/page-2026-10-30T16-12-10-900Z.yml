@@ -1,0 +1,164 @@
+- generic [ref=e2]:
+  - banner:
+    - generic [ref=e4]:
+      - link "CodeHall Home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: CodeHall
+      - navigation "Desktop Navigation" [ref=e13]:
+        - link "Our Work" [ref=e14] [cursor=pointer]:
+          - /url: "#work"
+        - link "Process" [ref=e15] [cursor=pointer]:
+          - /url: "#process"
+        - link "Impact" [ref=e16] [cursor=pointer]:
+          - /url: "#impact"
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: "#contact"
+      - button "Let's Talk" [ref=e19] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e23]:
+      - paragraph [ref=e26]: CODING AGENCY
+      - heading "WE BUILD YOUR IMAGINATIONS." [level=1] [ref=e30]
+      - paragraph [ref=e31]: We partner with bold brands to shape their digital identity, fusing deep technical execution with striking design to build unforgettable web experiences.
+      - generic [ref=e32]:
+        - button "VIEW OUR WORK" [ref=e33] [cursor=pointer]
+        - button "LET'S TALK" [ref=e34] [cursor=pointer]
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - heading "Intentional Design" [level=2] [ref=e40]
+        - paragraph [ref=e41]: Data-backed layouts built to maximize engagement and user retention
+      - generic [ref=e42]:
+        - heading "Robust Infrastructure" [level=2] [ref=e47]
+        - paragraph [ref=e48]: High-performance, modular architectures engineered for long-term scalability
+    - generic [ref=e49]:
+      - generic [ref=e51]:
+        - heading "Selected Work" [level=2] [ref=e52]
+        - paragraph [ref=e53]: A Curation of our most recent technical challenges and design triumphs
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - link [ref=e56] [cursor=pointer]:
+            - /url: https://buy-oh-code-house1.vercel.app/
+            - img "INFIBUY E-COMMERCE PLATFORM" [ref=e57]
+          - generic [ref=e58]:
+            - heading "INFIBUY" [level=3] [ref=e59]
+            - generic [ref=e60]: E-COMMERCE PLATFORM
+        - generic [ref=e61]:
+          - img "PORTFOLIO DIGITAL SHOWCASE" [ref=e62]
+          - generic [ref=e63]:
+            - heading "PORTFOLIO" [level=3] [ref=e64]
+            - generic [ref=e65]: DIGITAL SHOWCASE
+        - generic [ref=e66]:
+          - img "STONE APP WEB APPLICATION" [ref=e67]
+          - generic [ref=e68]:
+            - heading "STONE APP" [level=3] [ref=e69]
+            - generic [ref=e70]: WEB APPLICATION
+    - generic [ref=e72]:
+      - heading "Our Process & Features" [level=1] [ref=e73]
+      - generic [ref=e74]:
+        - img "Seamless Across All Screens" [ref=e76]
+        - generic [ref=e77]:
+          - generic [ref=e82] [cursor=pointer]:
+            - generic [ref=e83]: Seamless Across All Screens
+            - generic [ref=e84]: Crafted with fluid layouts that adapt instantly to mobile, tablet, and desktop displays.
+          - generic [ref=e85] [cursor=pointer]:
+            - generic [ref=e86]: "2"
+            - generic [ref=e87]: Engineered for Growth
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: "3"
+            - generic [ref=e91]: Lightning-Fast Speed
+    - generic [ref=e93]:
+      - generic [ref=e94]: ENGINEERED FOR IMPACT
+      - heading "Chosen by businesses, adored by their customers." [level=2] [ref=e97]
+      - paragraph [ref=e98]: We help ambitious companies build powerful, custom web platforms designed for real-world speed, conversion, and long-term scalability.
+      - generic [ref=e99]:
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - generic [ref=e103]: PERFORMANCE
+            - generic [ref=e108]: <0.8s
+            - generic [ref=e109]: Average Load Speed
+            - paragraph [ref=e110]: Sub-second response rates optimized for top Core Web Vitals, immediate retention, and SEO rank.
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: QUALITY
+            - generic [ref=e119]: 100%
+            - generic [ref=e120]: Bespoke Architecture
+            - paragraph [ref=e121]: Zero generic page-builder bloat. Handcrafted modular code engineered for maintainability and speed.
+          - generic [ref=e122] [cursor=pointer]:
+            - generic [ref=e123]: RELIABILITY
+            - generic [ref=e129]: 99.9%
+            - generic [ref=e130]: Cloud Availability
+            - paragraph [ref=e131]: Resilient deployment pipelines built to handle unexpected traffic spikes without downtime.
+          - generic [ref=e132] [cursor=pointer]:
+            - generic [ref=e133]: TRANSPARENCY
+            - generic [ref=e140]: 1-on-1
+            - generic [ref=e141]: Direct Engineering Access
+            - paragraph [ref=e142]: Direct technical collaboration with our lead developer without project manager overhead.
+        - generic [ref=e143]:
+          - button "Previous card" [ref=e144] [cursor=pointer]
+          - generic [ref=e147]:
+            - button "Go to slide 1" [ref=e148] [cursor=pointer]
+            - button "Go to slide 2" [ref=e149] [cursor=pointer]
+            - button "Go to slide 3" [ref=e150] [cursor=pointer]
+            - button "Go to slide 4" [ref=e151] [cursor=pointer]
+          - button "Next card" [ref=e152] [cursor=pointer]
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - heading "Let's build something extraordinary." [level=2] [ref=e158]:
+          - text: Let's build something
+          - generic [ref=e159]: extraordinary.
+        - paragraph [ref=e160]: Ready to elevate your digital presence? Fill out the form or book a direct consultation call with our engineering lead.
+        - generic [ref=e161]:
+          - link "Email Us hello@zubbysportolio.dev" [ref=e162] [cursor=pointer]:
+            - /url: mailto:hello@zubbysportolio.dev
+            - generic [ref=e167]:
+              - generic [ref=e168]: Email Us
+              - generic [ref=e169]: hello@zubbysportolio.dev
+          - link "Instagram codehall.dev" [ref=e170] [cursor=pointer]:
+            - /url: https://instagram.com/codehall.dev
+            - generic [ref=e175]:
+              - generic [ref=e176]: Instagram
+              - generic [ref=e177]: codehall.dev
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - img "Zubby - Founder & Lead Developer" [ref=e181]
+          - generic [ref=e182]:
+            - heading "Let's Discuss Your Project" [level=4] [ref=e183]
+            - paragraph [ref=e184]: With Zubby, Founder & Lead Developer
+        - link "Book a Discovery Call" [ref=e185] [cursor=pointer]:
+          - /url: mailto:hello@zubbysportolio.dev?subject=Booking%20a%20Discovery%20Call
+    - generic [ref=e187]:
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - generic [ref=e190]: CodeHall
+          - paragraph [ref=e197]: Fusing deep technical execution with striking design to build unforgettable web experiences.
+          - generic [ref=e198]: Accepting New Client Projects for 2026
+        - generic [ref=e199]:
+          - generic [ref=e200]:
+            - heading "Navigation" [level=4] [ref=e201]
+            - link "Home" [ref=e202] [cursor=pointer]:
+              - /url: "#home"
+            - link "Our Work" [ref=e203] [cursor=pointer]:
+              - /url: "#work"
+            - link "Process" [ref=e204] [cursor=pointer]:
+              - /url: "#process"
+            - link "Impact" [ref=e205] [cursor=pointer]:
+              - /url: "#impact"
+            - link "Contact" [ref=e206] [cursor=pointer]:
+              - /url: "#contact"
+          - generic [ref=e207]:
+            - heading "Services" [level=4] [ref=e208]
+            - text: Custom Web AppsBespoke Design SystemsHigh-Performance APIsScalable Cloud Frontend
+          - generic [ref=e209]:
+            - heading "Connect" [level=4] [ref=e210]
+            - link "hello@codehall.tech" [ref=e211] [cursor=pointer]:
+              - /url: mailto:hello@codehall.tech
+            - text: +1 (800) CODE-HALLSan Francisco · Global
+      - generic [ref=e212]:
+        - paragraph [ref=e213]: © 2026 CodeHall Technologies Inc. All rights reserved. Built with intentional craftsmanship.
+        - generic [ref=e214]:
+          - link "GitHub" [ref=e215] [cursor=pointer]:
+            - /url: https://github.com
+          - link "Twitter" [ref=e219] [cursor=pointer]:
+            - /url: https://twitter.com
+          - link "Discord" [ref=e223] [cursor=pointer]:
+            - /url: https://discord.com
+          - link "Instagram" [ref=e229] [cursor=pointer]:
+            - /url: https://instagram.com/codehall.dev

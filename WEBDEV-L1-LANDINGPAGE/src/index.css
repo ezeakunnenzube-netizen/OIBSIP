@@ -1,0 +1,36 @@
+:root {
+  /* Brand Color Palette: Radiant Amethyst / Electric Violet & Purple */
+  --brand-accent: #a855f7;
+  --brand-accent-rgb: 168, 85, 247;
+  --brand-accent-light: #c084fc;
+  --brand-accent-glow: rgba(168, 85, 247, 0.45);
+  --brand-accent-soft: rgba(168, 85, 247, 0.12);
+  --brand-accent-subtle: rgba(168, 85, 247, 0.06);
+  --brand-accent-border: rgba(168, 85, 247, 0.35);
+
+  --brand-secondary: #ec4899;
+  --brand-secondary-glow: rgba(236, 72, 153, 0.35);
+
+  --bg-dark: #08060e;
+  --bg-surface: #0e0b1a;
+  --bg-card: #130f24;
+  --bg-card-hover: #1a1430;
+
+  --text-main: #ffffff;
+  --text-muted: #9ca3af;
+  --text-dim: #6b7280;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  scroll-behavior: smooth;
+}

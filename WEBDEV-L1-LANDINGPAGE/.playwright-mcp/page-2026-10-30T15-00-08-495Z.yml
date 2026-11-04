@@ -1,0 +1,117 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - link "CodeHall" [ref=e6] [cursor=pointer]:
+      - /url: /
+    - button "Toggle navigation menu" [ref=e15] [cursor=pointer]
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - paragraph [ref=e21]: CODING AGENCY
+      - generic [ref=e22]: WE BUILD YOUR IMAGINATIONS.
+      - generic [ref=e23]: We partner with bold brands to shape their digital identity, fusing deep technical execution with striking design to build unforgettable web experiences.
+      - generic [ref=e24]:
+        - button "VIEW OUR WORK" [ref=e25]
+        - button "LET'S TALK" [ref=e26]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - heading "Intentional Design" [level=2] [ref=e32]
+        - paragraph [ref=e33]: Data-backed layouts built to maximize engagement and user retention
+      - generic [ref=e34]:
+        - heading "Robust Infrastructure" [level=2] [ref=e39]
+        - paragraph [ref=e40]: High-performance, modular architectures engineered for long-term scalability
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - heading "Selected Work" [level=1] [ref=e44]
+          - paragraph [ref=e45]: A Curation of our most recent technical challenges and design triumphs
+        - button "View Projects" [ref=e47] [cursor=pointer]
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - link [ref=e53] [cursor=pointer]:
+            - /url: https://buy-oh-code-house1.vercel.app/
+            - img "INFIBUY PROJCTCT" [ref=e54]
+          - generic [ref=e55]:
+            - heading "INFIBUY" [level=3] [ref=e56]
+            - generic [ref=e57]: E-COMMERCE PLATFORM
+        - generic [ref=e58]:
+          - img "PORTFOLIO PROJECT" [ref=e59]
+          - generic [ref=e60]:
+            - heading "PORTFOLIO" [level=3] [ref=e61]
+            - generic [ref=e62]: DIGITAL SHOWCASE
+        - generic [ref=e63]:
+          - img "STONE APP PROJECT" [ref=e64]
+          - generic [ref=e65]:
+            - heading "STONE APP" [level=3] [ref=e66]
+            - generic [ref=e67]: WEB APPLICATION
+    - generic [ref=e69]:
+      - heading "Our Process & Features" [level=1] [ref=e70]
+      - generic [ref=e71]:
+        - img "Seamless Across All Screens" [ref=e73]
+        - generic [ref=e74]:
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]: Seamless Across All Screens
+            - generic [ref=e81]: Crafted with fluid layouts that adapt instantly to mobile, tablet, and desktop displays.
+          - generic [ref=e82] [cursor=pointer]:
+            - generic [ref=e83]: "2"
+            - generic [ref=e84]: Engineered for Growth
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e87]: "3"
+            - generic [ref=e88]: Lightning-Fast Speed
+    - generic [ref=e90]:
+      - generic [ref=e91]: ENGINEERED FOR IMPACT
+      - heading "Chosen by businesses, adored by their customers." [level=2] [ref=e94]
+      - paragraph [ref=e95]: We help ambitious companies build powerful, custom web platforms designed for real-world speed, conversion, and long-term scalability.
+      - generic [ref=e96]:
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: PERFORMANCE
+            - generic [ref=e105]: <0.8s
+            - generic [ref=e106]: Average Load Speed
+            - paragraph [ref=e107]: Sub-second response rates optimized for top Core Web Vitals, immediate retention, and SEO rank.
+          - generic [ref=e108] [cursor=pointer]:
+            - generic [ref=e109]: QUALITY
+            - generic [ref=e116]: 100%
+            - generic [ref=e117]: Bespoke Architecture
+            - paragraph [ref=e118]: Zero generic page-builder bloat. Handcrafted modular code engineered for maintainability and speed.
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e120]: RELIABILITY
+            - generic [ref=e126]: 99.9%
+            - generic [ref=e127]: Cloud Availability
+            - paragraph [ref=e128]: Resilient deployment pipelines built to handle unexpected traffic spikes without downtime.
+          - generic [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: TRANSPARENCY
+            - generic [ref=e137]: 1-on-1
+            - generic [ref=e138]: Direct Engineering Access
+            - paragraph [ref=e139]: Direct technical collaboration with our lead developer without project manager overhead.
+        - generic [ref=e140]:
+          - button "Previous card" [ref=e141] [cursor=pointer]
+          - generic [ref=e144]:
+            - button "Go to slide 1" [ref=e145] [cursor=pointer]
+            - button "Go to slide 2" [ref=e147] [cursor=pointer]
+            - button "Go to slide 3" [ref=e149] [cursor=pointer]
+            - button "Go to slide 4" [ref=e151] [cursor=pointer]
+          - button "Next card" [ref=e153] [cursor=pointer]
+    - generic [ref=e157]:
+      - generic [ref=e158]:
+        - heading "Let's build something extraordinary." [level=2] [ref=e159]:
+          - text: Let's build something
+          - generic [ref=e160]: extraordinary.
+        - paragraph [ref=e161]: Ready to elevate your digital presence? Fill out the form or book a direct consultation call with our engineering lead.
+        - generic [ref=e162]:
+          - link "Email Us hello@zubbysportolio.dev" [ref=e163] [cursor=pointer]:
+            - /url: mailto:hello@zubbysportolio.dev
+            - generic [ref=e168]:
+              - generic [ref=e169]: Email Us
+              - generic [ref=e170]: hello@zubbysportolio.dev
+          - link "Instagram codehall.dev" [ref=e171] [cursor=pointer]:
+            - /url: https://instagram.com/codehall.dev
+            - generic [ref=e176]:
+              - generic [ref=e177]: Instagram
+              - generic [ref=e178]: codehall.dev
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - img "Zubby - Founder & Lead Developer" [ref=e182]
+          - generic [ref=e183]:
+            - heading "Let's Discuss Your Project" [level=4] [ref=e184]
+            - paragraph [ref=e185]: With Zubby, Founder & Lead Developer
+        - link "Book a Discovery Call" [ref=e186] [cursor=pointer]:
+          - /url: mailto:hello@zubbysportolio.dev?subject=Booking%20a%20Discovery%20Call
